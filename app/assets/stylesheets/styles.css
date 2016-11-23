@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+img {
+  width: 200%;
+}
+
+.sh50 {
+  display: block;
+  margin: 0 auto;
+  padding: 0 auto;
+  display: inline-block;
+  width: 50%;
+}
+
